@@ -40,13 +40,3 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
     implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.25'
 }
-
-## Запуск
-1. Клонировать репозторий:
-  ```sh
-  git clone https://github.com/dorallodee/Finale.git
-  ```
-2. Запустить проект:
-  ```sh
-  cd Finale
-  ```
